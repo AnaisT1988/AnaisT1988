@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a [Your Role/Title] passionate about [your interests/focus areas]. I enjoy building [types of projects] and working with [technologies you love].
+⚛️ **Chemist** | 📉 **Data scientist**| 🌱 Lifelong Learner | 
 
 <!--- 🔭 I'm currently working on [current project or focus]-->
 - 🌱 I'm currently learning reactJS library
@@ -39,7 +39,7 @@ Git
 
 ## Notable Projects
 
-- **[Project Name]([https://github.com/KCClaboratory/Chemspeed_KCC_area6])** - This project provides Python-based automation tools for running Bayesian optimization experiments on Chemspeed robotic synthesis platforms. It streamlines the workflow from experimental design to execution, enabling efficient exploration of chemical parameter spaces with minimal manual intervention.
+- **[KCC_Chemspeed]([https://github.com/KCClaboratory/Chemspeed_KCC_area6])** - This project provides Python-based automation tools for running Bayesian optimization experiments on Chemspeed robotic synthesis platforms. It streamlines the workflow from experimental design to execution, enabling efficient exploration of chemical parameter spaces with minimal manual intervention.
 
 
 ## Connect With Me
