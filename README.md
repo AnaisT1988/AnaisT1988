@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **AnaisT1988/AnaisT1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-⚛️ **Chemist** | 📉 **Data scientist**| 🌱 Lifelong Learner | 
+⚛️ **Chemist** | 📉 **Data scientist** | 🌱 Lifelong Learner | 
 
 <!--- 🔭 I'm currently working on [current project or focus]-->
 - 🌱 I'm currently learning reactJS library
